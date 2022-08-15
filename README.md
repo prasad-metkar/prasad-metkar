@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prasad-metkar
-- 👀 I’m working in Cloud Technology from last +4 years
+- 👀 Seasoned Azure cloud engineer with over 4 years of experience in deploying and managing cloud-based solutions. 
 - 🌱 I’m currently learning DevOps and automation
 - Expertise in IaaS, PaaS, SaaS, DaaS and etc. services in Cloud Technology
-- Cloud services based on computing, database, storage, networking and etc.
+
 
 
